@@ -2,7 +2,8 @@
 
 This is an example of a README.md boilerplate. For now on I can
 copy this over any time I need to generate a properly formatted
-README.md file. 
+README.md file. Explanation on what the project is and how to run
+it would appear here.
 
 ## Installation
 
