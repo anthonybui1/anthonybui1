@@ -1,19 +1,22 @@
 ### Hello there :wave:
 
-My name is **Anthony**, I am a frontend developer currently working out of **Austin, TX**. :metal:
+My name is **Anthony**, I am a web developer currently working out of **Austin, TX**. :metal:
 
 #### About Me
 
-I graduated from the University of Texas with a B.S. in **Biochemistry**. Throughout the years I have been a barista, pharmacy technician, and ophthalmic technician (I love making **coffee** and taking care of **eyeballs**). **Powerlifting** is my thing, and I compete in the 66kg weight class.
+I am a tech transplant, carrying a diverse background as a barista, pharmacy technician, and
+ophthalmic technician. I also powerlift in the 66kg weight class. 
 
-I love **learning** and **teaching**. It is so important to learn new things every day, and I believe that the best way to learn new things is to teach. Fortunately, programming provides an unlimited learning experience! :blush:
+I love **learning** and **teaching**. I believe that it is so important to learn new things 
+every day, and that the best way to learn new things is to teach. Fortunately for me, programming 
+provides an unlimited learning experience! :blush:
 
 #### Technologies
 
-Currently invested in the **(P/M)ERN** stack: PostgreSQL/MongoDB, Express, React, Node.
+:white_check_mark: Typescript, React, Vue.js
 
-I am learning **TypeScript**, and eventually want to learn C++ or Rust.
+:white_check_mark: Express, Node
 
-#### Contact Me
+:white_check_mark: PostgreSQL, MongoDB
 
-If you would like to reach me, please send an email to **anthony-222@live.com** :heart:
+:black_square_button: Wanting to learn: Rust
