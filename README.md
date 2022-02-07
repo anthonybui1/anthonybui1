@@ -20,4 +20,4 @@ to learn new things is to teach.
 
 ## Certifications
 
-![AWS Developer Associate Badge](/aws-certified-developer-associate.png)
+<img src="./aws-certified-developer-associate.png" style="width:150px;height:150px;"/>
